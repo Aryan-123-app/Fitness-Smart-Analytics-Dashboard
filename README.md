@@ -1,6 +1,6 @@
 # 💪 Fitness Smart Analytics Dashboard  
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)  
+[![Power BI](power-bi-microsoft-seeklogo.png)  
 [![Made with](https://img.shields.io/badge/Made%20with-Power%20Query-blue?logo=Microsoft)](https://learn.microsoft.com/en-us/power-query/)  
 [![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-orange)](https://learn.microsoft.com/en-us/dax/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
