@@ -92,7 +92,7 @@ To provide an **interactive, data-driven solution** that:
 
 ### Dashboard Preview:  
 ![Fitness Dashboard Screenshot](Screenshot%202025-08-27%20192608.png)
-![Fitness Dashboard Video](Dashboard Video.mp4)
+![Fitness Dashboard Video](Dashboard%20Video.mp4)
 
 ---
 
