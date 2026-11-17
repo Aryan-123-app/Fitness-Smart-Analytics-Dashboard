@@ -91,7 +91,8 @@ To provide an **interactive, data-driven solution** that:
 ## 📸 Screenshots / Demo  
 
 ### Dashboard Preview:  
-![Fitness Dashboard Screenshot](Screenshot%202025-08-27%20192608.png)  
+![Fitness Dashboard Screenshot](Screenshot%202025-08-27%20192608.png)
+![Fitness Dashboard Video](Dashboard Video.mp4)
 
 ---
 
